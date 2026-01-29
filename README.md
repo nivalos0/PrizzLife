@@ -1,4 +1,4 @@
-<h1 align="center">PrizzLife Admin</h1>
+<h1 align="center">PrizzLife Admin ReWrite 1.0</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Active-green" alt="Status">
@@ -14,17 +14,17 @@
 
 ## 🚀 Supported Executors
 
-```plaintext
-LibHydrogen based executors: Delta X 2.0, Hydrogen, MacSploit
-LibArceusX based executors: Arceus X Neo, Codex, VegaX, Evon, Trigon
-Misc executors: Fluxus, Solara PC, Swift, Other Mobile Executors, etc.
+```
+LibArceusX based executors: Arceus X Neo, Codex, VegaX, Evon, Trigon, Cryptic
+Misc executors: Swift, Other Mobile Executors, etc.
+Recommended Executors: [Delta](https://deltaexploits.gg)
 ```
 
 ---
 
 ### Discord:
 <div style="text-align: center;">
-  <a href="https://discord.gg/pnh2RyzR6W" target="_blank">Join our Discord</a>
+  <a href="https://" target="_blank">Join our Discord</a>
 </div>
 
 ---
@@ -49,6 +49,7 @@ Credits to these people:
 - Tiger Admin
 - [H17S3](https://github.com/h17s3)
 - [elliexmln](https://github.com/elliexmln)
+- [Vlaair](https://github.com/vlaair)
 
 ---
 
