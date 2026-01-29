@@ -10,7 +10,7 @@ src="https://img.shields.io/github/license/devguy100/PrizzLife" alt="License">
 </p>
 
 <p align="center">
-  <strong>PrizzLife</strong> - The best and most used <a href="https://www.roblox.com/games/155615604/Prison-Life">Prison Life</a> script with over 200+ command with multi-executor support.
+  <strong>PrizzLife</strong> - Formerly the best and most used <a href="https://www.roblox.com/games/155615604/Prison-Life">Prison Life</a> script with over 200+ command with multi-executor support.
 </p>
 
 ---
