@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Active-green" alt="Status">
-  <img src="https://img.shields.io/badge/Version-0.9.8-blue" alt="Version">
+  <img src="https://img.shields.io/badge/Version-0.9.9-blue" alt="Version">
   <img src="https://img.shields.io/github/license/devguy100/PrizzLife" alt="License">
 </p>
 
