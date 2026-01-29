@@ -73,7 +73,7 @@ This project is licensed under the MIT License. See the LICENSE file for more de
 
 ~~PrizzLife is executed around 5,000 times a day. We found this out by statistics. We no longer run these statistics.~~
 
-PrizzLife is no longer being Executed every day, it's been dead, the whole goal of this Repository is too try to revive it.
+PrizzLife is no longer being executed every day, it's been **dead,** the whole goal of this Repository is too try to revive it.
 
 ---
 
