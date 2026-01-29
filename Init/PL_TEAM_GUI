@@ -1,5 +1,6 @@
 -- Suspicious Loadstring removed from this.
 local TeamFrame, Teams = nil, nil
+local CoreGui = game:GetService("CoreGui")
 do
 	TeamFrame = Instance.new("Frame")
 	local TeamLabel = Instance.new("TextLabel")
@@ -9,7 +10,7 @@ do
 	local InmateButton = Instance.new("TextButton")
 
 	TeamFrame.Name = "TeamFrame"
-	TeamFrame.Parent = CoreGui:WaitForChild("PLADMIN_INITIALS", 69)
+	TeamFrame.Parent =CoreGui:WaitForChild("PLADMIN_INITIALS", 69)
 	TeamFrame.AnchorPoint = Vector2.new(0.5, 0.5)
 	TeamFrame.BackgroundColor3 = Color3.fromRGB(45, 45, 45)
 	TeamFrame.BorderColor3 = Color3.fromRGB(0, 0, 0)
