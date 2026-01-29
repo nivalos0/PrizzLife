@@ -73,5 +73,5 @@ PrizzLife is executed around 5,000 times a day. We found this out by statistics.
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/nivalos0/PrizzLife/refs/heads/main/Images/Old.png" alt="Old">
-  <img src="https://raw.githubusercontent.com/nivalos0/PrizzLife/refs/heads/main/Images/Old.png" alt="New">
+  <img src="https://raw.githubusercontent.com/nivalos0/PrizzLife/refs/heads/main/Images/New.png" alt="New">
 </p>
