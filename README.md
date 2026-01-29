@@ -4,7 +4,7 @@
   <img src="https://img.shields.io/badge/Status-Active-green" alt="Status">
   <img src="https://img.shields.io/badge/Version-0.9.9-red" alt="Version">
   <img 
-src="https://img.shields.io/badge/Version-1.0-green" alt="Beta Version">
+src="https://img.shields.io/badge/Version-1.0-green" alt="BetaVersion">
   <img 
 src="https://img.shields.io/github/license/devguy100/PrizzLife" alt="License">
 </p>
