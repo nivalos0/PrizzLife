@@ -17,8 +17,9 @@
 ```
 LibArceusX based executors: Arceus X Neo, Codex, VegaX, Evon, Trigon, Cryptic
 Misc executors: Swift, Other Mobile Executors, etc.
-Recommended Executors: [Delta](https://deltaexploits.gg)
 ```
+
+- Recommended Executors: [Delta](https://deltaexploits.gg)
 
 ---
 
