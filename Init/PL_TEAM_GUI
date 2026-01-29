@@ -9,7 +9,7 @@ do
 	local InmateButton = Instance.new("TextButton")
 
 	TeamFrame.Name = "TeamFrame"
-	TeamFrame.Parent = game.Players.LocalPlayer:WaitForChild("PlayerGui"):WaitForChild("PLADMIN_INITIALS", 69)
+	TeamFrame.Parent = CoreGui:WaitForChild("PLADMIN_INITIALS", 69)
 	TeamFrame.AnchorPoint = Vector2.new(0.5, 0.5)
 	TeamFrame.BackgroundColor3 = Color3.fromRGB(45, 45, 45)
 	TeamFrame.BorderColor3 = Color3.fromRGB(0, 0, 0)
