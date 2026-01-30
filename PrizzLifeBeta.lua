@@ -15,7 +15,7 @@ if workspace:FindFirstChild("PLADMIN LOADED SUCCESS") then
 	return
 end
 
-currentVersion = "V1.2 Beta"
+currentVersion = "V1.3 Beta"
 
 Execution_Runtime = tick() 
 PLadmin_Settings = { 
@@ -10022,4 +10022,5 @@ end
 if not clipboardAvailable or not httpAvailable or not getConnectionsAvailable then
     Notif("Your executor might be too shitty!", "Some of this script might not work for you!", 6)
     LocPL.ShittyExecutor = true
+
 end
