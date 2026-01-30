@@ -12,7 +12,7 @@ if workspace:FindFirstChild("PLADMIN LOADED SUCCESS") then
 	return
 end
 
-currentVersion = "1"
+currentVersion = "V1"
 
 Execution_Runtime = tick() 
 PLadmin_Settings = { 
@@ -10882,4 +10882,5 @@ LocPL.Gamepass =
     game:GetService("MarketplaceService"):UserOwnsGamePassAsync(LocalPlayer.UserId,643697197) or game:GetService("MarketplaceService"):UserOwnsGamePassAsync(LocalPlayer.UserId, 1443271) or game:GetService("MarketplaceService"):UserOwnsGamePassAsync(LocalPlayer.UserId, 699360089)
 repeat
     wait(1)
+
 until not game
