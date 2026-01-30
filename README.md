@@ -1,7 +1,7 @@
 <h1 align="center">PrizzLife Admin 1.0</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Semi_Working_Stage_2-yellow" alt="Status">
+  <img src="https://img.shields.io/badge/Status-Semi_Working_Stage_2-yellow?style=for-the-badge" alt="Status">
   <img src="https://img.shields.io/badge/Version-1.0-green" alt="Version">
   <img 
 src="https://img.shields.io/badge/Beta_Version-1.0-green" alt="Beta Version">
