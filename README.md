@@ -60,7 +60,7 @@ Credits to these people:
 
 ## 📜 License
 
-This project is licensed under the MIT License. See the LICENSE file for more details.
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/nivalos0/PrizzLife/blob/main/LICENSE) file for more details.
 
 ---
 
