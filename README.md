@@ -91,5 +91,5 @@ PrizzLife is no longer being executed every day, it's been **dead,** the whole g
   <strong>Old<strong>
   <img src="https://raw.githubusercontent.com/nivalos0/PrizzLife/refs/heads/main/Images/Old.png" alt="Old">
     <strong>New<strong>
-  <img src="https://raw.githubusercontent.com/nivalos0/PrizzLife/refs/heads/main/Images/New.png" alt="New">
+  <img src="" alt="New">
 </p>
