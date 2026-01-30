@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Semi_Working_Stage_3-yellow?style=for-the-badge" alt="Status">
-  <img src="https://img.shields.io/badge/Version-1.0-green" alt="Version">
+  <img src="https://img.shields.io/badge/Version-1.1-green" alt="Version">
   <img 
 src="https://img.shields.io/badge/Beta_Version-1.3.5-green" alt="Beta Version">
   <img 
