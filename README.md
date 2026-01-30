@@ -15,6 +15,16 @@ src="https://img.shields.io/github/license/devguy100/PrizzLife" alt="License">
 
 ---
 
+## ℹ️ Information
+
+<strong>This is a continued version of PrizzLife which has since been abandoned by the owner. This is **NOT** a full time project, and I am **NOT** responsible for kicks, or bans from Prison Life. The things below I do **NOT** plan to add<strong>
+
+- loopkill
+
+- commands that mention all, such as "kill all" etc.
+
+---
+
 ## 🚀 Supported Executors
 
 ```
