@@ -93,5 +93,5 @@ Credits to these people:
   <strong>Old<strong>
   <img src="https://raw.githubusercontent.com/nivalos0/PrizzLife/refs/heads/main/Images/Old.png" alt="Old">
     <strong>New<strong>
-  <img src="https://raw.githubusercontent.com/nivalos0/PrizzLife/refs/heads/main/Images/New1.png" alt="New">
+  <img src="https://raw.githubusercontent.com/nivalos0/PrizzLife/refs/heads/main/Images/New.png" alt="New">
 </p>
