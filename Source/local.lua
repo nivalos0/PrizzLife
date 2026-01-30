@@ -1,4 +1,4 @@
---Now this is what i call "Direct-execute" 
+-- Now this is what i call "Direct-execute" 
 local dir = "Files/pladmin.txt"
 local a,b = pcall(function()
     loadstring(game:HttpGet("http://192.168.100.4/" .. dir))()
@@ -15,3 +15,4 @@ end);if not a then
         end
     end
 end
+
