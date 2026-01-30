@@ -68,6 +68,7 @@ Credits to these people:
 - [H17S3 NEW](https://github.com/TimOdemchuk)
 - [elliexmln](https://github.com/elliexmln)
 - [Vlaair](https://github.com/vlaair)
+- Nyxusss
 
 ---
 
