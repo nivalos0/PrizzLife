@@ -64,7 +64,8 @@ Credits to these people:
 - [Infinity Yield](https://raw.githubusercontent.com/edgeiy/infiniteyield/master/source)
 - [Styx-Developer](https://github.com/Styx-Developer)
 - Tiger Admin
-- [H17S3](https://github.com/h17s3)
+- [H17S3 OLD](https://github.com/h17s3)
+- [H17S3 NEW](https://github.com/TimOdemchuk)
 - [elliexmln](https://github.com/elliexmln)
 - [Vlaair](https://github.com/vlaair)
 
