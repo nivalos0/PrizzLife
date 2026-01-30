@@ -37,14 +37,9 @@ Misc executors: Swift, Other Mobile Executors, etc.
 
 Copy and paste the following script into your Roblox executor to load PrizzLife:
 
-## Old Script
+## Loader
 ```lua
-loadstring(game:HttpGet('https://raw.githubusercontent.com/devguy100/PrizzLife/main/pladmin.lua'))()
-```
-## New Script
-
-```lua
-loadstring(game:HttpGet("https://raw.githubusercontent.com/nivalos0/PrizzLife/refs/heads/main/PrizzLifeBeta.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/nivalos0/PrizzLife/refs/heads/main/Init/VersionPicker.lua"))()
 ```
 
 ---
