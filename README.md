@@ -1,4 +1,4 @@
-<h1 align="center">PrizzLife Admin ReWrite 1.0</h1>
+<h1 align="center">PrizzLife Admin 1.0</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Semi_Working_Stage_2-yellow" alt="Status">
