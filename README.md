@@ -19,9 +19,11 @@ src="https://img.shields.io/github/license/devguy100/PrizzLife" alt="License">
 
 This is a continued version of PrizzLife which has since been abandoned by the owner. This is **NOT** a full time project, and I am **NOT** responsible for kicks, or bans from Prison Life. The things below I do **NOT** plan to add
 
-- loopkill
+- Any Loop Commands
 
-- commands that mention all, such as "kill all" etc.
+- Commands that mention all, such as "kill all" etc.
+
+- Crash, or Server Lag commands.
 
 ---
 
