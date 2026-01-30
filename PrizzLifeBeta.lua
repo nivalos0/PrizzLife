@@ -3,7 +3,7 @@ This script is so broken I might have to spend a couple weeks to fix this.
 This is still extremely broken, but out of what it was before, if you would like to fork it to contribute, you may.
 
 Update Log 4:
-Fixed the Criminals Remington 870, and the AK-47.
+Fixed the Criminals Remington 870, and the AK-47 item giving.
 --]]
 
 if workspace:FindFirstChild("PLADMIN LOADED SUCCESS") then
@@ -9880,4 +9880,5 @@ end
 if not clipboardAvailable or not httpAvailable or not getConnectionsAvailable then
     Notif("Your executor might be too shitty!", "Some of this script might not work for you!", 6)
     LocPL.ShittyExecutor = true
+
 end
