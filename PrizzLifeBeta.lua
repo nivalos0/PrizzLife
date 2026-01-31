@@ -9889,7 +9889,7 @@ task.spawn(function()
 		return Settings.Ranked.GiveCmds
 	end)
 	if Execution_Runtime then
-		Notif("Potang Ina Mo", "Updated as of 1/30/26", 6)
+		Notif("Potang Ina Mo", "Updated as of 1/31/26", 6)
 		Notif("Milano", "Loaded in " .. tostring(tick() - Execution_Runtime) .. " second(s).", 6)
 	end
 
@@ -10108,4 +10108,5 @@ end
 if not clipboardAvailable or not httpAvailable or not getConnectionsAvailable or not GetExecutorIdentityAvailable then
     Notif("Your executor might be too shitty!", "Some of this script might not work for you!", 6)
     LocPL.ShittyExecutor = true
+
 end
