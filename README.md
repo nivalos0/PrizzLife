@@ -41,7 +41,7 @@ Misc executors: Swift, Other Mobile Executors, etc.
 
 ### Discord:
 <div style="text-align: center;">
-  <a href="https://" target="_blank">Join our Discord</a>
+  <a href="https://discord.gg/SZdAVGqAGs" target="_blank">Join our Discord</a>
 </div>
 
 ---
