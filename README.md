@@ -1,7 +1,7 @@
 <h1 align="center">PrizzLife Admin ReImagined 1.0</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Semi_Working_Stage_3-yellow?style=for-the-badge" alt="Status">
+  <img src="https://img.shields.io/badge/Status-Semi_Working_Stage_4-yellow?style=for-the-badge" alt="Status">
   <br>
   <img src="https://img.shields.io/badge/Version-1.1-green" alt="Version">
   <img 
@@ -93,5 +93,5 @@ Credits to these people:
   <strong>Old<strong>
   <img src="https://raw.githubusercontent.com/nivalos0/PrizzLife/refs/heads/main/Images/Old.png" alt="Old">
     <strong>New<strong>
-  <img src="https://raw.githubusercontent.com/nivalos0/PrizzLife/refs/heads/main/Images/New.png" alt="New">
+  <img src="https://raw.githubusercontent.com/nivalos0/PrizzLife/refs/heads/main/Images/New1.png" alt="New">
 </p>
