@@ -1,7 +1,7 @@
 <h1 align="center">PrizzLife Admin ReImagined 1.0</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Semi_Working_Stage_4-yellow?style=for-the-badge" alt="Status">
+  <img src="https://img.shields.io/badge/Status-Semi_Working_Stage_5-yellow?style=for-the-badge" alt="Status">
   <br>
   <img src="https://img.shields.io/badge/Version-1.1-green" alt="Version">
   <img 
@@ -25,6 +25,8 @@ This is a continued version of PrizzLife which has since been abandoned by the o
 - Commands that mention all, such as "kill all" etc.
 
 - Crash, or Server Lag commands.
+
+- Backdoors for Kick commands.
 
 ---
 
