@@ -33,8 +33,12 @@ This is a continued version of PrizzLife which has since been abandoned by the o
 ## 🚀 Supported Executors
 
 ```
-LibArceusX based executors: Arceus X Neo, Codex, VegaX, Evon, Trigon, Cryptic
-Misc executors: Swift, Other Mobile Executors, etc.
+Misc mobile: Delta, Ronix, etc
+Misc computer free: Ronix (fully ud, key system), Velocity, Bunni.fun (used to be .lol, key system), Hydrogen (mac), etc
+
+Misc computer paid: Potassium, Volt(maybe fully ud but not recommended), Cryptic, Volcano, Seliware, etc
+
+not very trustworthy: wave (one of its owners used to steal user data on past exploits and also stole thousands of dollars from them the specific exploit is arceus x not sure if they still do it, paid), sirhurt (owner is a pedophile from a CW during the actual synapse x and OG v3rmillion days)
 ```
 
 - Recommended Executors: [Delta](https://deltaexploits.gg)
