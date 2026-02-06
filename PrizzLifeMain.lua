@@ -39,7 +39,7 @@ else
   print("Prizzlife isn't already loaded, proceeding with execution.")
 end
 
-currentVersion = "V1.9 Beta"
+currentVersion = "V1.2 Main"
 
 Execution_Runtime = tick() 
 PLadmin_Settings = { 
@@ -10304,4 +10304,5 @@ end
 if not clipboardAvailable or not httpAvailable or not getConnectionsAvailable or not GetExecutorIdentityAvailable then
     Notif("Your executor might be too shitty!", "Some of this script might not work for you!", 6)
     LocPL.ShittyExecutor = true
+
 end
