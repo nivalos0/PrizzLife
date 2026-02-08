@@ -111,18 +111,5 @@ do
 
 	UIAspectRatioConstraint_2.Parent = CreditsFrame
 	UIAspectRatioConstraint_2.AspectRatio = 5.21951
-
-	Teams = Instance.new("Folder")
-	Teams.Name = "Teams"
-	Teams.Parent = TeamFrame
-	
-	GuardBtn.Parent = Teams
-	InmateBtn.Parent = Teams
-	CrimBtn.Parent = Teams
-	
-	GuardBtn.Parent = TeamFrame
-	InmateBtn.Parent = TeamFrame
-	CrimBtn.Parent = TeamFrame
 end
-
 return TeamFrame, Teams
