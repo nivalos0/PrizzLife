@@ -1,4 +1,4 @@
-local TeamFrame, Teams = nil, nil
+local TeamFrame, CreditsFrame Teams = nil, nil, nil
 local CoreGui = game:GetService("CoreGui")
 do
 	local TeamGui = Instance.new("ScreenGui")
@@ -112,4 +112,4 @@ do
 	UIAspectRatioConstraint_2.Parent = CreditsFrame
 	UIAspectRatioConstraint_2.AspectRatio = 5.21951
 end
-return TeamFrame, Teams
+return TeamFrame, CreditsFrame, Teams
