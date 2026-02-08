@@ -1,4 +1,4 @@
-local TeamFrame, CreditsFrame Teams = nil, nil, nil
+local TeamFrame, CreditsFrame, Teams = nil, nil, nil
 local CoreGui = game:GetService("CoreGui")
 do
 	local TeamGui = Instance.new("ScreenGui")
