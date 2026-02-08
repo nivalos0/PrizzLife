@@ -11,7 +11,7 @@ do
 	local CrimBtn = Instance.new("TextButton")
 	local UICorner_4 = Instance.new("UICorner")
 	local UIAspectRatioConstraint = Instance.new("UIAspectRatioConstraint")
-	local CreditsFrame = Instance.new("Frame")
+	CreditsFrame = Instance.new("Frame")
 	local Ellie = Instance.new("TextLabel")
 	local UICorner_5 = Instance.new("UICorner")
 	local PrizzText = Instance.new("TextLabel")
@@ -112,4 +112,5 @@ do
 	UIAspectRatioConstraint_2.Parent = CreditsFrame
 	UIAspectRatioConstraint_2.AspectRatio = 5.21951
 end
+
 return TeamFrame, CreditsFrame, Teams
