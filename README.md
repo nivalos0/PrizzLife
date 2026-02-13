@@ -33,15 +33,51 @@ This is a continued version of PrizzLife which has since been abandoned by the o
 ## 🚀 Supported Executors
 
 ```
-Misc mobile: Delta, Ronix, etc
-Misc computer free: Ronix (fully ud, key system), Velocity, Bunni.fun (used to be .lol, key system), Hydrogen (mac), etc
+<@1299087195956842506> update supported to:
 
-Misc computer paid: Potassium, Volt(maybe fully ud but not recommended), Cryptic, Volcano, Seliware, etc
+- START Info -
+This is only a list of known executors that could support it. This list will not be updated unless needed.
+- STOP Info -
 
-not very trustworthy: wave (one of its owners used to steal user data on past exploits and also stole thousands of dollars from them the specific exploit is arceus x not sure if they still do it, paid), sirhurt (owner is a pedophile from a CW during the actual synapse x and OG v3rmillion days)
+- START Android Free -
+Delta (key system)
+Ronix (key system)
+- STOP Android Free -
+
+- START iOS Free -
+Delta (key system)
+- STOP iOS Free -
+
+- START Windows Free -
+Ronix (supposedly fully ud, key system)
+Velocity
+Bunni.fun (used to be .lol, key system)
+- STOP Windows Free -
+
+- START Mac Free -
+Hydrogen (maybe key system)
+Ronix (key system)
+- STOP Mac Free -
+
+- START Computer Paid -
+Potassium (life time)
+Volt (maybe fully ud but not recommended)
+Cryptic
+Volcano
+Seliware
+- STOP Computer Paid -
+
+- START Not Very Trustworthy -
+Wave (one of its owners used to steal user data on past exploits and also stole thousands of dollars from them, the specific exploit is Arceus X, but I'm not sure if they still do it, paid)
+SirHurt (owner is a pedophile from a CW during the actual synapse x and OG v3rmillion days, paid)
+ArceusLib Mobile Executors (you can use them, but I wouldn't suggest it due to what the owner of Arceus X used to do)
+Arceus X (basically the same reason as Wave, but one of its owners turns into the owner)
 ```
 
-- Recommended Executors: [Delta](https://deltaexploits.gg)
+- Recommended Mobile Executor: [Delta](https://deltaexploits.gg)
+- Recommended Free Windows Executor: [Ronix](https://ronixstudios.io)
+- Recommended Paid Windows Executor: [Potassium](https://www.potassium.pro)
+- Recommended Mac Executor: [Ronix](https://ronixstudios.io)
 
 ---
 
@@ -68,7 +104,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/nivalos0/PrizzLife/re
 Credits to these people:
 
 - Wrath Admin
-- [Infinity Yield](https://raw.githubusercontent.com/edgeiy/infiniteyield/master/source)
+- [Infinite Yield](https://raw.githubusercontent.com/edgeiy/infiniteyield/master/source)
 - [Styx-Developer](https://github.com/Styx-Developer)
 - Tiger Admin
 - [H17S3 OLD](https://github.com/h17s3)
@@ -89,7 +125,7 @@ Credits to these people:
 
 ~~PrizzLife is executed around 5,000 times a day. We found this out by statistics. We no longer run these statistics.~~
 
-- PrizzLife is no longer being executed every day, it's been **dead,** the whole goal of this Repository is too try to revive it.
+- PrizzLife is no longer being executed every day, it's been **dead,** the whole goal of this Repository is to try and revive it.
 
 ---
 
