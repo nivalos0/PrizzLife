@@ -33,8 +33,6 @@ This is a continued version of PrizzLife which has since been abandoned by the o
 ## 🚀 Supported Executors
 
 ```
-<@1299087195956842506> update supported to:
-
 - START Info -
 This is only a list of known executors that could support it. This list will not be updated unless needed.
 - STOP Info -
@@ -125,7 +123,7 @@ Credits to these people:
 
 ~~PrizzLife is executed around 5,000 times a day. We found this out by statistics. We no longer run these statistics.~~
 
-- PrizzLife is no longer being executed every day, it's been **dead,** the whole goal of this Repository is to try and revive it.
+- PrizzLife is no longer being executed every day, it's been **dead,** and the whole goal of this Repository is to try and revive it.
 
 ---
 
