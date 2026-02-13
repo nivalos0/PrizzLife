@@ -1,11 +1,11 @@
 <h1 align="center">PrizzLife Admin ReImagined 1.2.5</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Semi_Working_Stage_6-yellow?style=for-the-badge" alt="Status">
+  <img src="https://img.shields.io/badge/Status-Some_Features_Broken-yellow?style=for-the-badge" alt="Status">
   <br>
-  <img src="https://img.shields.io/badge/Version-1.2-green" alt="Version">
+  <img src="https://img.shields.io/badge/Version-1.2.5-green" alt="Version">
   <img 
-src="https://img.shields.io/badge/Beta_Version-2.0-green" alt="Beta Version">
+src="https://img.shields.io/badge/Beta_Rwrite_Version-2.0-green" alt="Beta Rewrite Version">
   <img 
 src="https://img.shields.io/github/license/devguy100/PrizzLife" alt="License">
 </p>
