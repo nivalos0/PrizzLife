@@ -11,14 +11,14 @@ src="https://img.shields.io/github/license/devguy100/PrizzLife" alt="License">
 </p>
 
 <p align="center">
-  <strong>PrizzLife</strong> - Formerly the best and most used <a href="https://www.roblox.com/games/155615604/Prison-Life">Prison Life</a> script with over 200+ commands, and multi-executor support.
+  <strong>PrizzLife</strong> - Formerly the best and most used <a href="https://www.roblox.com/games/155615604/Prison-Life">Prison Life</a> script with over 200+ commands, and multi-executor support. Please wait, this will not be updated, because a rewrite is coming soon.
 </p>
 
 ---
 
 ## ℹ️ Information
 
-This is a continued version of PrizzLife which has since been abandoned by the owner. This is **NOT** a full time project, and I am **NOT** responsible for kicks, or bans from Prison Life. The things below I do **NOT** plan to add
+This is a continued version of PrizzLife which has since been abandoned by the owner. This is **NOT** a full time project, and I am **NOT** responsible for kicks, or bans from Prison Life. The things below I do **NOT** plan to add:
 
 - Any Loop Commands
 
