@@ -92,7 +92,7 @@ Arceus X (basically the same reason as Wave, but one of its owners turns into th
 
 ## Loader
 ```lua
-loadstring(game:HttpGet("https://raw.githubusercontent.com/nivalos0/PrizzLife/refs/heads/main/Init/VersionPicker.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/nivalos0/PrizzLife/refs/heads/main/Init/Version/VersionPicker.lua"))()
 ```
 
 ---
