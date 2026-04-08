@@ -1,7 +1,7 @@
 --[[ PrizzLife V2.0 ReWrite, made by Riotscripter, Nivalos, and Fred.
 This is an entire ReWrite
 
-(Currdntly not able to test, also, this hasent been touched in 2 monthe, expect some things to be broken.)
+(Currently not able to test, also, this hasen't been touched in over 2 months, expect some things to be broken.)
 
 -- REWRITE --
 ReWrite:
