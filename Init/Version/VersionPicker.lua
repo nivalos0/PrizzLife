@@ -155,7 +155,7 @@ PromptUser(
     end;
     function()
         -- This runs when "Beta" is clicked
-        loadstring(game:HttpGet("https://raw.githubusercontent.com/nivalos0/PrizzLife/refs/heads/main/PrizzLifeBeta.lua"))()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/nivalos0/PrizzLife/refs/heads/main/Source/Main/PrizzLifeBeta.lua"))()
     end;
     function()
       -- This runs when "ReWrite" is clicked
