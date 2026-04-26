@@ -151,14 +151,14 @@ PromptUser(
     "ReWrite";
     function()
         -- This runs when "Main" is clicked
-        loadstring(game:HttpGet("https://raw.githubusercontent.com/nivalos0/PrizzLife/refs/heads/main/PrizzLifeMain.lua"))()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/nivalos0/PrizzLife/refs/heads/main/Source/Main/PrizzLifeMain.lua"))()
     end;
     function()
         -- This runs when "Beta" is clicked
-        loadstring(game:HttpGet("https://raw.githubusercontent.com/nivalos0/PrizzLife/refs/heads/main/PrizzLifeBeta.lua"))()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/nivalos0/PrizzLife/refs/heads/main/Source/Main/PrizzLifeBeta.lua"))()
     end;
     function()
       -- This runs when "ReWrite" is clicked
-      loadstring(game:HttpGet("https://raw.githubusercontent.com/nivalos0/PrizzLife/refs/heads/main/PrizzLifeBeta_ReWrite.lua"))()
+      loadstring(game:HttpGet("https://raw.githubusercontent.com/nivalos0/PrizzLife/refs/heads/main/Source/Main/PrizzLifeBeta_ReWrite.lua"))()
     end;
 )
