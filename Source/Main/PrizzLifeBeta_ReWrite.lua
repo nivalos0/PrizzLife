@@ -1,7 +1,6 @@
 --[[ PrizzLife V2.0 ReWrite, made by Riotscripter, Nivalos, and Fred.
 This is an entire ReWrite
 
-
 -- REWRITE --
 ReWrite:
 Full ReWrite of everything.
