@@ -110,6 +110,7 @@ Credits to these people:
 - [elliexmln](https://github.com/elliexmln)
 - [Vlaair](https://github.com/vlaair)
 - Nyxusss
+- FredTheRick
 
 ---
 
