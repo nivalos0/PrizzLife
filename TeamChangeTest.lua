@@ -1,20 +1,23 @@
+-- Variables
 local Rstorage = game:GetService("ReplicatedStorage")
 local Teams = game:GetService("Teams")
 local Event = Rstorage.Remotes.RequestTeamChange
 
+-- Core function
 local TeamEve = function(args, switch)
 	local team = Teams[args]
 	if team and switch then
-	    Event:InvokeServer(Teams["Neutral"])
+	    Event:InvokeServer(Teams["Neutral"], 1)
 	    task.wait(4)
-	    Event:InvokeServer(team)
+	    Event:InvokeServer(team, 1)
 	elseif not switch then
-	    Event:InvokeServer(team)
+	    Event:InvokeServer(team, 1)
 	else
 	    warn("Team not found, try again.")
 	end
 end
 
+-- Main function
 local function ChangeTeam(TeamName, Switch)
     if TeamName == "Guards" then
         TeamEve("Guards", Switch)
@@ -29,6 +32,5 @@ local function ChangeTeam(TeamName, Switch)
     end
 end
 
+-- ChangeTeam
 ChangeTeam("Guards", true)
-
-
