@@ -100,7 +100,7 @@ end
 
 
 local CurrentVersion = game:HttpGet("https://raw.githubusercontent.com/nivalos0/PrizzLife/refs/heads/main/Init/version.txt")
-if CurrentVersion == "1" then
+if CurrentVersion == "1.2" then
    Notif("Version Checker", "you're version is up to date, continuing....", 2)
    else
    Notif("Version Checker", "you're version is not up to date, go to the GitHub to get the latest version.", 2)
