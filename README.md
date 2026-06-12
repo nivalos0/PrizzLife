@@ -39,7 +39,6 @@ This is only a list of known executors that could support it. This list will not
 
 - START Android Free -
 Delta (key system)
-Ronix (key system)
 - STOP Android Free -
 
 - START iOS Free -
@@ -49,6 +48,7 @@ Delta (key system)
 - START Windows Free -
 Ronix (supposedly fully ud, key system)
 Velocity
+Madium
 Bunni.fun (used to be .lol, key system)
 - STOP Windows Free -
 
